@@ -2,41 +2,176 @@
 
 ## 📌 About Me
  
-- 🧑‍💻 Passionate **Software Engineer** focused on **Backend Development**, **Software Architecture**, and building enterprise-grade systems
-- 🏗️ Actively engineering production-quality backends with **Java / Spring Boot**, **Python / FastAPI**, and **Javascript / Node.js**
-- 🏛️ Deep-diving into **System Design**, **Software Architecture**, and engineering principles like **SOLID**, **Clean Code**, **TDD**, and **Design Patterns**
-- 🤖 Experienced in building **AI/ML pipelines** — from EDA and feature engineering to model deployment
-- 🎯 Targeting **Backend / Software Engineering internships** at top-tier companies
+- 🧑‍💻 **Passionate Software Engineer** specializing in **Backend Development, Software Architecture, and enterprise-grade systems**
 
+- 🏗️ **Building production-quality backend systems** using:
+  - Java / Spring Boot  
+  - Python / FastAPI  
+  - JavaScript / Node.js  
+
+- 🏛️ **Deeply focused on System Design & Architecture**, applying:
+  - SOLID Principles  
+  - Clean Code Practices  
+  - Test-Driven Development (TDD)  
+  - Design Patterns  
+
+- 🛠️ **Currently engineering an end-to-end enterprise-grade platform**, integrating:  
+  Spring Boot · Spring State Machine · Redis (distributed locking) · RabbitMQ (async messaging) · Stripe (payments & webhooks) · PostgreSQL · MySQL · Next.js 14 · Testcontainers · k6 (load testing) · Docker · GitHub Actions (CI/CD)
+
+- ⚙️ **Hands-on with advanced production patterns**, including:
+  - Distributed concurrency control  
+  - State machine-based workflows  
+  - Cache invalidation strategies  
+  - N+1 query optimization  
+  - Webhook idempotency handling  
+  - JaCoCo test coverage (80%+)  
+  - Railway cloud deployment  
+
+- 📐 **Applying System Design in practice**, focusing on:
+  - Capacity estimation  
+  - Trade-off analysis  
+  - Designing for **1,000+ concurrent users**  
+  - Achieving **P95 < 500ms latency**  
+  - Ensuring **zero oversell consistency**  
+
+- 🤖 **Experienced in AI/ML pipelines**, covering:
+  - EDA (Exploratory Data Analysis)  
+  - Feature Engineering  
+  - Model Training & Evaluation  
+  - Model Deployment  
+
+- 🌐 **GenAI experience**:
+  - Built an **AI-powered ATS resume screening system**  
+  - Designed a **4-agent pipeline** using LangChain & Ollama  
+
+- 🎯 **Targeting Backend / Software Engineering roles & internships at top-tier companies**
+
+---
+
+## 🚀 Projects
+
+### 🤖 Recruiter-Pro
+**AI-powered ATS resume screening system** with a **4-agent pipeline** for intelligent candidate evaluation.
+
+**Key Highlights:**
+- Multi-agent architecture for decision-making  
+- Automated resume parsing & evaluation  
+- AI-driven candidate scoring and filtering  
+
+**Tech Stack:**  
+Next.js · Python (FastAPI) · LangChain · Ollama  
+
+---
+
+### 🎣 PhishSniffer
+**Machine Learning-powered phishing detection system** for URLs & emails.
+
+**Key Highlights:**
+- End-to-end ML pipeline implementation  
+- Feature extraction from URLs & email metadata  
+- Real-time prediction via interactive UI  
+
+**Tech Stack:**  
+Python · Scikit-learn · Streamlit  
+
+---
+
+### 📡 SysPlex
+**Hybrid observability platform** for cross-OS system health monitoring using a **dual-agent architecture**.
+
+**Key Highlights:**
+- Cross-platform monitoring (Linux/Windows)  
+- Lightweight agent-based data collection  
+- Containerized deployment for scalability  
+
+**Tech Stack:**  
+Bash/Shell Scripting · Python · Docker  
+
+---
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+### 💻 Programming Languages
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
+</p>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+### 🌐 Frontend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" />
+</p>
 
-> ## Backend
-<p align="center"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
+### ⚙️ Backend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+</p>
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
+### 🗄️ Databases & Caching
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48"/>
+</p>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+### ⚡ Messaging & Systems
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48"/>
+</p>
+
+
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48"/>
+</p>
+
+
+### 🧪 Testing & Performance
+<p align="center">
+<img src="https://cdn.simpleicons.org/k6/7D64FF" width="48"/>
+</p>
+
+
+### 🛠️ Tools
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" />
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" />
+</p>
+
+---
 
 ## 🔗 Connect with Me
-<p align="center"><a href="www.linkedin.com/in/abdelrhman-mohamed-abdelhamied-6a59a1368" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:abdelrhmanhamied004@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/abdelrhman-mohamed-abdelhamied-6a59a1368" target="_blank">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+</a>
+<a href="mailto:abdelrhmanhamied004@gmail.com">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+</a>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+---
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square"/>
+</p>
