@@ -3,9 +3,10 @@
 ## 📌 About Me
  
 - 🧑‍💻 Passionate **Software Engineer** focused on **Backend Development**, **Software Architecture**, and building enterprise-grade systems
-- 🏗️ Actively engineering production-quality backends with **Java / Spring Boot**, **Python / FastAPI**, and **Javascript / Node.js** and System design
+- 🏗️ Actively engineering production-quality backends with **Java / Spring Boot**, **Python / FastAPI**, and **Javascript / Node.js**
+- 🏛️ Deep-diving into **System Design**, **Software Architecture**, and engineering principles like **SOLID**, **Clean Code**, **TDD**, and **Design Patterns**
 - 🤖 Experienced in building **AI/ML pipelines** — from EDA and feature engineering to model deployment
-- 🎯 Targeting **Backend / Software Engineering internships** at top-tier companies 
+- 🎯 Targeting **Backend / Software Engineering internships** at top-tier companies
 
 
 ## 🛠️ Languages & Tools
