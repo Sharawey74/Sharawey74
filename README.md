@@ -69,7 +69,8 @@ Next.js · Python (FastAPI) · LangChain · Ollama
 **Key Highlights:**
 - End-to-end ML pipeline implementation  
 - Feature extraction from URLs & email metadata  
-- Real-time prediction via interactive UI  
+- Real-time prediction via interactive UI
+- Deployed via Streamlit cloud (URL: https://phishsniffer.streamlit.app)
 
 **Tech Stack:**  
 Python · Scikit-learn · Streamlit  
