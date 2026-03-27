@@ -6,25 +6,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=950&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+FastAPI+%7C+Node.js;System+Design+%7C+Distributed+Workflows+%7C+Performance" alt="typing intro" />
 </p>
 
-## 📌 About Me
- 
-- 🧑‍💻 **Passionate Software Engineer** specializing in **Backend Development, Software Architecture, and enterprise-grade systems**
+<p align="center">
+  <strong><span style="font-size: 30px;">🧑‍💻 Passionate Software Engineer specializing in Backend Development, Software Architecture, and enterprise-grade systems</span></strong>
+</p>
 
-- 🏗️ **Building production-quality backend systems** using:
+- 🚀 **Building production-quality backend systems** using:
   - Java / Spring Boot  
   - Python / FastAPI  
   - JavaScript / Node.js  
 
-- 🏛️ **Deeply focused on System Design & Architecture**, applying:
+- 🧠 **Deeply focused on System Design & Architecture**, applying:
   - SOLID Principles  
   - Clean Code Practices  
   - Test-Driven Development (TDD)  
   - Design Patterns  
 
-- 🛠️ **Currently engineering an end-to-end enterprise-grade platform**, integrating:  
+- 🏗️ **Currently engineering an end-to-end enterprise-grade platform**, integrating:  
   Spring Boot · Spring State Machine · Redis (distributed locking) · RabbitMQ (async messaging) · Stripe (payments & webhooks) · PostgreSQL · MySQL · Next.js 14 · Testcontainers · k6 (load testing) · Docker · GitHub Actions (CI/CD)
 
-- ⚙️ **Hands-on with advanced production patterns**, including:
+- ⚡ **Hands-on with advanced production patterns**, including:
   - Distributed concurrency control  
   - State machine-based workflows  
   - Cache invalidation strategies  
@@ -33,7 +33,7 @@
   - JaCoCo test coverage (80%+)  
   - Railway cloud deployment  
 
-- 📐 **Applying System Design in practice**, focusing on:
+- 📊 **Applying System Design in practice**, focusing on:
   - Capacity estimation  
   - Trade-off analysis  
   - Designing for **1,000+ concurrent users**  
@@ -46,7 +46,7 @@
   - Model Training & Evaluation  
   - Model Deployment  
 
-- 🌐 **GenAI experience**:
+- 🧩 **GenAI experience**:
   - Built an **AI-powered ATS resume screening system**  
   - Designed a **4-agent pipeline** using LangChain & Ollama  
 
@@ -145,7 +145,7 @@
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="60"/>
 </a>
 <a href="mailto:abdelrhmanhamied004@gmail.com">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="60"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="56" alt="gmail"/>
 </a>
 </p>
 
