@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=950&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+FastAPI+%7C+Node.js;System+Design+%7C+Distributed+Workflows+%7C+Performance" alt="typing intro" />
 </p>
 
-<h1 align="center">🧑‍💻 Passionate Software Engineer specializing in Backend Development, Software Architecture, and enterprise-grade systems</h1>
+<h1 align="center">🧑‍💻 Passionate Software Engineer specializing in Backend Development, Software Architecture, and Enterprise-grade systems</h1>
 
 ---
 
@@ -16,9 +16,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
