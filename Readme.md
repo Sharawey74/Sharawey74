@@ -134,7 +134,8 @@
   - EDA (Exploratory Data Analysis)  
   - Feature Engineering  
   - Model Training & Evaluation
-  - Model Deployment  
+  - Model Deployment
+  - Model Optimization
 
 - 🧩 **GenAI experience**:
   - Built an **AI-powered ATS resume screening system**  
