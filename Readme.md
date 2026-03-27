@@ -139,59 +139,13 @@
 
 ---
 
-## 🚀 Projects
-
-### 🤖 Recruiter-Pro
-**AI-powered ATS resume screening system** with a **4-agent pipeline** for intelligent candidate evaluation.
-
-**Key Highlights:**
-- Multi-agent architecture for decision-making  
-- Automated resume parsing & evaluation  
-- AI-driven candidate scoring and filtering  
-
-**Tech Stack:**  
-Next.js · Python (FastAPI) · LangChain · Ollama  
-
----
-
-### 🎣 PhishSniffer
-**Machine Learning-powered phishing detection system** for URLs & emails.
-
-**Key Highlights:**
-- End-to-end ML pipeline implementation  
-- Feature extraction from URLs & email metadata  
-- Real-time prediction via interactive UI
-- Deployed via Streamlit cloud (URL: https://phishsniffer.streamlit.app)
-
-**Tech Stack:**  
-Python · Scikit-learn · Streamlit  
-
----
-
-### 📡 SysPlex
-**Hybrid observability platform** for cross-OS system health monitoring using a **dual-agent architecture**.
-
-**Key Highlights:**
-- Cross-platform monitoring (Linux/Windows)  
-- Lightweight agent-based data collection  
-- Containerized deployment for scalability  
-
-**Tech Stack:**  
-Bash/Shell Scripting · Python · Docker  
-
----
-
-
-
----
-
 ## 🔗 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/abdelrhman-mohamed-abdelhamied-6a59a1368" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="60"/>
 </a>
 <a href="mailto:abdelrhmanhamied004@gmail.com">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="60"/>
 </a>
 </p>
 
