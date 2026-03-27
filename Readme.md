@@ -130,10 +130,10 @@
   - Achieving **P95 < 500ms latency**  
   - Ensuring **zero oversell consistency**  
 
-- 🤖 **Experienced in AI/ML pipelines**, covering:
+- 🤖 **Experienced in AI/ML pipelines using Scikit-learn**, covering:
   - EDA (Exploratory Data Analysis)  
   - Feature Engineering  
-  - Model Training & Evaluation  
+  - Model Training & Evaluation
   - Model Deployment  
 
 - 🧩 **GenAI experience**:
