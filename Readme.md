@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=950&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+FastAPI+%7C+Node.js;System+Design+%7C+Distributed+Workflows+%7C+Performance" alt="typing intro" />
 </p>
 
-<h1 align="center">🧑‍💻 Passionate Software Engineer specializing in Backend Development, Software Architecture & Design, and Enterprise-grade systems</h1>
+<h1 align="center">🧑‍💻 Software Engineer specializing in Backend Development, Software Architecture & Design, and Enterprise-grade systems</h1>
 
 ---
 
@@ -87,61 +87,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/k6/7D64FF" height="60" alt="k6 logo"  />
 </p>
-
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="postman logo"  />
-</p>
-
----
-
-- 🚀 **Building production-quality backend systems** using:
-  - Java / Spring Boot  
-  - Python / FastAPI  
-  - JavaScript / Node.js  
-
-- 🧠 **Deeply focused on System Design & Architecture**, applying:
-  - SOLID Principles  
-  - Clean Code Practices  
-  - Test-Driven Development (TDD)  
-  - Design Patterns  
-
-- 🏗️ **Currently engineering an end-to-end enterprise-grade platform**, integrating:  
-  Spring Boot · Spring State Machine · Redis (distributed locking) · RabbitMQ (async messaging) · Stripe (payments & webhooks) · PostgreSQL · MySQL · Next.js 14 · Testcontainers · k6 (load testing) · Docker · GitHub Actions (CI/CD)
-
-- ⚡ **Hands-on with advanced production patterns**, including:
-  - Distributed concurrency control  
-  - State machine-based workflows  
-  - Cache invalidation strategies  
-  - N+1 query optimization  
-  - Webhook idempotency handling  
-  - JaCoCo test coverage (80%+)  
-  - Railway cloud deployment  
-
-- 📊 **Applying System Design in practice**, focusing on:
-  - Capacity estimation  
-  - Trade-off analysis  
-  - Designing for **1,000+ concurrent users**  
-  - Achieving **P95 < 500ms latency**  
-  - Ensuring **zero oversell consistency**  
-
-- 🤖 **Experienced in AI/ML pipelines using Scikit-learn**, covering:
-  - EDA (Exploratory Data Analysis)  
-  - Feature Engineering  
-  - Model Training & Evaluation
-  - Model Deployment
-  - Model Optimization
-
-- 🧩 **GenAI experience**:
-  - Built an **AI-powered ATS resume screening system**  
-  - Designed a **4-agent pipeline** using LangChain & Ollama  
-
-- 🎯 **Targeting Backend / Software Engineering roles & internships at top-tier companies**
 
 ---
 
