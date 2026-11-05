@@ -12,11 +12,10 @@
 
 ## About 👋
 
-I'm a software engineering student at **AASTMT** (class of 2027). I build backend systems with a focus on **correctness under concurrency**, **maintainable architecture**, and **numbers I can back with a test**. I care about honest benchmarks and code the next engineer is glad to inherit.
+<h3>I'm a software engineering student at AASTMT (class of 2027). I build backend systems with a focus on correctness under concurrency, maintainable architecture, and numbers I can back with a test. I care about honest benchmarks and code the next engineer is glad to inherit.</h3>
 
 <p align="center">
-  🎟️ <b>Building</b> <a href="https://github.com/Sharawey74/Event-Ticketing-Platform"><b>Eventora</b></a>, a Spring Boot ticketing platform with a 10-state booking state machine<br/>
-  🌍 <b>Open source</b> merged PRs in
+  🌍 <b>Open source</b> contributions to <b>12 projects</b>, with merged PRs in
   <a href="https://github.com/python/typeshed/pull/16443"><code>python/typeshed</code></a>,
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9388"><code>FreshRSS</code></a> and
   <a href="https://github.com/magefree/mage/pull/16440"><code>magefree/mage</code></a>
@@ -31,7 +30,9 @@ I'm a software engineering student at **AASTMT** (class of 2027). I build backen
 </p>
 
 <p align="center">
-  📫 <a href="https://abdelrhaman-mohamed.vercel.app/"><b>abdelrhaman-mohamed.vercel.app</b></a>, where every number above links to its source
+  <a href="https://abdelrhaman-mohamed.vercel.app/">
+    <img src="./assets/about-portfolio.svg" width="100%" alt="Portfolio: abdelrhaman-mohamed.vercel.app, where every number above links to its source" />
+  </a>
 </p>
 
 ---
