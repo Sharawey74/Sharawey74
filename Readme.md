@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about-focus.svg" width="100%" alt="Focus areas: software engineering at the core, with backend systems, system design, distributed systems, performance, security and testing" />
+  <img src="./assets/focus-areas.svg" width="100%" alt="Focus areas: software engineering at the core, with backend systems, system design, distributed systems, performance, security and testing" />
 </p>
 
 <p align="center">
