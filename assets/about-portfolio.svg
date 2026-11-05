@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio</title>
+  <desc id="desc">Portfolio at abdelrhaman-mohamed.vercel.app, where every number links to its source.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A371F7"/>
+      <stop offset=".5" stop-color="#4B2E83" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#A371F7"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#A371F7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#A371F7" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" x2="1">
+      <stop offset="0" stop-color="#4B2E83"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#A371F7" opacity=".18"/>
+    </pattern>
+    <clipPath id="card"><rect x="2" y="2" width="876" height="166" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .m{font-family:'Fira Code',Consolas,'Courier New',monospace}
+    .rise{opacity:0;animation:rise .7s cubic-bezier(.2,.8,.2,1) forwards}
+    .d1{animation-delay:.2s}.d2{animation-delay:.45s}.d3{animation-delay:2.4s}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    .cover{transform-box:fill-box;transform-origin:right center;animation:type 1.6s steps(38) .7s forwards}
+    @keyframes type{to{transform:scaleX(0)}}
+    .caret{opacity:0;animation:blink 1s steps(1) 2.3s infinite}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out 1s infinite}
+    @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(1.18,1.5);opacity:0}}
+    .dot{transform-box:fill-box;transform-origin:center;animation:dot 1.8s ease-out infinite}
+    @keyframes dot{0%{transform:scale(1);opacity:.8}100%{transform:scale(3.2);opacity:0}}
+    .nudge{animation:nudge 1.4s ease-in-out 1s infinite}
+    @keyframes nudge{50%{transform:translateX(5px)}}
+    .sweep{animation:sweep 6s ease-in-out 3s infinite}
+    @keyframes sweep{0%{transform:translateX(0)}55%,100%{transform:translateX(1160px)}}
+    @media (prefers-reduced-motion:reduce){
+      .rise{animation:none;opacity:1;transform:none}
+      .cover{display:none}
+      .caret{animation:none;opacity:1}
+      .pulse,.dot,.nudge,.sweep{animation:none}
+      .pulse{opacity:0}
+    }
+  </style>
+
+  <!-- card -->
+  <rect x="2" y="2" width="876" height="166" rx="16" fill="#0F0F1B"/>
+  <g clip-path="url(#card)">
+    <rect width="880" height="170" fill="url(#dots)"/>
+    <rect class="sweep" x="-280" y="0" width="260" height="170" fill="url(#sweep)"/>
+  </g>
+  <rect x="2" y="2" width="876" height="166" rx="16" fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <!-- header -->
+  <text x="32" y="39" class="m" font-size="13" font-weight="700" fill="#EDE7FF" letter-spacing="1.5">PORTFOLIO</text>
+  <circle class="dot" cx="810" cy="34" r="4" fill="#56D364"/>
+  <circle cx="810" cy="34" r="4" fill="#56D364"/>
+  <text x="852" y="39" class="m" font-size="12" fill="#56D364" text-anchor="end">live</text>
+
+  <!-- address bar -->
+  <g class="rise d1">
+    <rect x="32" y="60" width="620" height="50" rx="25" fill="#161229" stroke="#2A2147"/>
+    <rect x="55" y="85" width="13" height="10" rx="2" fill="#56D364"/>
+    <path d="M58.5,85 v-3 a3,3 0 0 1 6,0 v3" fill="none" stroke="#56D364" stroke-width="2"/>
+    <text x="82" y="91" class="m" font-size="17" fill="#EDE7FF" textLength="380" lengthAdjust="spacingAndGlyphs"><tspan fill="#8E82B5">https://</tspan>abdelrhaman-mohamed.vercel.app</text>
+    <rect class="cover" x="80" y="70" width="400" height="30" fill="#161229"/>
+    <rect class="caret" x="467" y="74" width="2" height="22" fill="#A371F7"/>
+  </g>
+
+  <!-- visit button -->
+  <g class="rise d2">
+    <rect class="pulse" x="672" y="60" width="176" height="50" rx="25" fill="none" stroke="#A371F7" stroke-width="1.5"/>
+    <rect x="672" y="60" width="176" height="50" rx="25" fill="url(#purple)"/>
+    <text x="748" y="91" class="t" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Visit portfolio</text>
+    <text x="814" y="91" class="t nudge" font-size="16" font-weight="700" fill="#FFFFFF">→</text>
+  </g>
+
+  <!-- footer -->
+  <text x="32" y="145" class="m rise d3" font-size="13" fill="#8E82B5">every number above links to its source</text>
+</svg>
