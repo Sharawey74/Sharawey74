@@ -10,15 +10,29 @@
 
 ---
 
-## About 👋 
+## About 👋
 
-I'm a software engineering student at AASTMT (class of 2027). I build backend systems and target mostly about correctness under concurrency, maintainable architecture, and numbers I can back with a test, I care about honest benchmarks, and code that the real engineer is glad to inherit
+I'm a software engineering student at **AASTMT** (class of 2027). I build backend systems with a focus on **correctness under concurrency**, **maintainable architecture**, and **numbers I can back with a test**. I care about honest benchmarks and code the next engineer is glad to inherit.
 
-- 🎟️ **Building:** [Eventora](https://github.com/Sharawey74/Event-Ticketing-Platform), a Spring Boot ticketing platform with a 10-state booking state machine. **0 oversold seats** in a 100-user burst, **569K requests with 0 failures**, and **228/228 tests passing** (84% coverage).
-- 🌍 **Open source:** **8 merged pull requests** across 6 projects, including [`python/typeshed`](https://github.com/python/typeshed/pull/16443), [`FreshRSS`](https://github.com/FreshRSS/FreshRSS/pull/9388), and [`magefree/mage`](https://github.com/magefree/mage/pull/16440).
-- 🏢 **Experience:** Systems Engineering Intern at **Alstom** (Cairo Monorail driverless-train fault analysis), IT Infrastructure Intern at **Orascom Construction**, and AI/ML Intern at **Telecom Egypt**.
-- 🔭 **Interested in:** software architecture, distributed systems, performance, and security.
-- 📫 **Find me:** [abdelrhaman-mohamed.vercel.app](https://abdelrhaman-mohamed.vercel.app/), where every number above links to its source.
+<p align="center">
+  🎟️ <b>Building</b> <a href="https://github.com/Sharawey74/Event-Ticketing-Platform"><b>Eventora</b></a>, a Spring Boot ticketing platform with a 10-state booking state machine<br/>
+  🌍 <b>Open source</b> merged PRs in
+  <a href="https://github.com/python/typeshed/pull/16443"><code>python/typeshed</code></a>,
+  <a href="https://github.com/FreshRSS/FreshRSS/pull/9388"><code>FreshRSS</code></a> and
+  <a href="https://github.com/magefree/mage/pull/16440"><code>magefree/mage</code></a>
+</p>
+
+<p align="center">
+  <img src="./assets/about-journey.svg" width="100%" alt="Experience: Systems Engineering Intern at Alstom (Cairo Monorail driverless-train fault analysis), IT Infrastructure Intern at Orascom Construction, AI/ML Intern at Telecom Egypt" />
+</p>
+
+<p align="center">
+  <img src="./assets/about-focus.svg" width="100%" alt="Focus areas: backend engineering at the core, with software architecture, distributed systems, performance and security" />
+</p>
+
+<p align="center">
+  📫 <a href="https://abdelrhaman-mohamed.vercel.app/"><b>abdelrhaman-mohamed.vercel.app</b></a>, where every number above links to its source
+</p>
 
 ---
 
