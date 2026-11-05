@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title desc">
   <title id="title">Focus areas</title>
-  <desc id="desc">Backend engineering at the core, surrounded by software architecture, distributed systems, performance, and security.</desc>
+  <desc id="desc">Software engineering at the core, surrounded by backend systems, system design, distributed systems, performance, security, and testing.</desc>
   <defs>
     <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#A371F7"/>
@@ -62,30 +62,40 @@
     <circle class="ring r3" cx="440" cy="168" r="52" fill="none" stroke="#A371F7" stroke-width="1.5"/>
     <g class="breathe">
       <circle cx="440" cy="168" r="52" fill="url(#core)"/>
-      <text x="440" y="164" class="t" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">Backend</text>
+      <text x="440" y="164" class="t" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">Software</text>
       <text x="440" y="183" class="t" font-size="13" font-weight="600" fill="#F3ECFF" text-anchor="middle">Engineering</text>
     </g>
 
     <!-- orbiting chips (text stays upright: no rotate on animateMotion) -->
     <g>
       <use href="#chip-shape"/>
-      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🏛️ Software Architecture</text>
-      <animateMotion dur="28s" begin="-0s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🖥️ Backend Systems</text>
+      <animateMotion dur="36s" begin="-0s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🏛️ System Design</text>
+      <animateMotion dur="36s" begin="-6s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
     </g>
     <g>
       <use href="#chip-shape"/>
       <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🌐 Distributed Systems</text>
-      <animateMotion dur="28s" begin="-7s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+      <animateMotion dur="36s" begin="-12s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
     </g>
     <g>
       <use href="#chip-shape"/>
       <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">⚡ Performance</text>
-      <animateMotion dur="28s" begin="-14s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+      <animateMotion dur="36s" begin="-18s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
     </g>
     <g>
       <use href="#chip-shape"/>
       <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🔐 Security</text>
-      <animateMotion dur="28s" begin="-21s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+      <animateMotion dur="36s" begin="-24s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🧪 Testing</text>
+      <animateMotion dur="36s" begin="-30s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
     </g>
   </g>
 </svg>
