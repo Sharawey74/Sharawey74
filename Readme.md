@@ -14,19 +14,19 @@
 
 <h3>I'm a software engineering student at AASTMT (class of 2027). I build backend systems with a focus on correctness under concurrency, maintainable architecture, and numbers I can back with a test. I care about honest benchmarks and code the next engineer is glad to inherit.</h3>
 
-<p align="center">
-  🌍 <b>Open source</b> contributions to <b>12 projects</b>, with merged PRs in
+<h3 align="center">
+  🌍 Open source contributions to 12 projects, with merged PRs in
   <a href="https://github.com/python/typeshed/pull/16443"><code>python/typeshed</code></a>,
   <a href="https://github.com/FreshRSS/FreshRSS/pull/9388"><code>FreshRSS</code></a> and
   <a href="https://github.com/magefree/mage/pull/16440"><code>magefree/mage</code></a>
-</p>
+</h3>
 
 <p align="center">
   <img src="./assets/about-journey.svg" width="100%" alt="Experience: Systems Engineering Intern at Alstom (Cairo Monorail driverless-train fault analysis), IT Infrastructure Intern at Orascom Construction, AI/ML Intern at Telecom Egypt" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-focus.svg" width="100%" alt="Focus areas: backend engineering at the core, with software architecture, distributed systems, performance and security" />
+  <img src="./assets/about-focus.svg" width="100%" alt="Focus areas: software engineering at the core, with backend systems, system design, distributed systems, performance, security and testing" />
 </p>
 
 <p align="center">
@@ -82,12 +82,11 @@
 ---
 
 ## 🔗 Connect with Me
+
 <p align="center">
-  <a href="https://abdelrhaman-mohamed.vercel.app/" target="_blank"><img src="https://api.iconify.design/mdi/web.svg?color=%23A371F7&height=56" height="56" alt="portfolio" title="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdelrhman-mohamed-abdelhamied-6a59a1368" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height="56" alt="linkedin" title="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:abdelrhmanhamied004@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="56" alt="gmail" title="Gmail" /></a>
+  <a href="https://abdelrhaman-mohamed.vercel.app/"><img src="./assets/connect-portfolio.svg" width="32%" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-mohamed-abdelhamied-6a59a1368"><img src="./assets/connect-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+  <a href="mailto:abdelrhmanhamied004@gmail.com"><img src="./assets/connect-email.svg" width="32%" alt="Email" /></a>
 </p>
 
 ---
