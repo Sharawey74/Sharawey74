@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=950&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+FastAPI+%7C+Node.js;System+Design+%7C+Distributed+Workflows+%7C+Performance" alt="Building scalable backend systems" />
 </p>
 
-<h3 align="center">🧑‍💻 Backend Development · Software Architecture &amp; Design · Enterprise-grade Systems</h3>
-
 ---
 
 ## About 👋
