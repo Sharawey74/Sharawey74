@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title desc">
+  <title id="title">Focus areas</title>
+  <desc id="desc">Backend engineering at the core, surrounded by software architecture, distributed systems, performance, and security.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A371F7"/>
+      <stop offset=".5" stop-color="#4B2E83" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#A371F7"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="core" cx=".35" cy=".3" r=".8">
+      <stop offset="0" stop-color="#C4A2FF"/>
+      <stop offset=".55" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#4B2E83"/>
+    </radialGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#A371F7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#A371F7" opacity=".18"/>
+    </pattern>
+    <clipPath id="card"><rect x="2" y="2" width="876" height="296" rx="16"/></clipPath>
+    <g id="chip-shape">
+      <rect x="-96" y="-18" width="192" height="36" rx="18" fill="#161229" stroke="#A371F7" stroke-width="1.5"/>
+    </g>
+  </defs>
+
+  <style>
+    .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .m{font-family:'Fira Code',Consolas,'Courier New',monospace}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+    .r2{animation-delay:1s}.r3{animation-delay:2s}
+    @keyframes ring{0%{transform:scale(1);opacity:.6}100%{transform:scale(2.4);opacity:0}}
+    .orbit{animation:dash 30s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-400}}
+    .enter{opacity:0;animation:fade 1s ease .3s forwards}
+    @keyframes fade{to{opacity:1}}
+    .breathe{transform-box:fill-box;transform-origin:center;animation:breathe 4s ease-in-out infinite}
+    @keyframes breathe{50%{transform:scale(1.05)}}
+    @media (prefers-reduced-motion:reduce){
+      .ring,.orbit,.breathe{animation:none}
+      .ring{opacity:0}
+      .enter{animation:none;opacity:1}
+    }
+  </style>
+
+  <rect x="2" y="2" width="876" height="296" rx="16" fill="#0F0F1B"/>
+  <rect width="880" height="300" fill="url(#dots)" clip-path="url(#card)"/>
+  <rect x="2" y="2" width="876" height="296" rx="16" fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <text x="32" y="39" class="m" font-size="13" font-weight="700" fill="#EDE7FF" letter-spacing="1.5">FOCUS AREAS</text>
+
+  <g class="enter">
+    <!-- orbit path -->
+    <ellipse class="orbit" cx="440" cy="168" rx="330" ry="92" fill="none" stroke="#3A2D63" stroke-width="1.5" stroke-dasharray="4 8"/>
+
+    <!-- core -->
+    <circle cx="440" cy="168" r="110" fill="url(#halo)"/>
+    <circle class="ring" cx="440" cy="168" r="52" fill="none" stroke="#A371F7" stroke-width="1.5"/>
+    <circle class="ring r2" cx="440" cy="168" r="52" fill="none" stroke="#A371F7" stroke-width="1.5"/>
+    <circle class="ring r3" cx="440" cy="168" r="52" fill="none" stroke="#A371F7" stroke-width="1.5"/>
+    <g class="breathe">
+      <circle cx="440" cy="168" r="52" fill="url(#core)"/>
+      <text x="440" y="164" class="t" font-size="15" font-weight="800" fill="#FFFFFF" text-anchor="middle">Backend</text>
+      <text x="440" y="183" class="t" font-size="13" font-weight="600" fill="#F3ECFF" text-anchor="middle">Engineering</text>
+    </g>
+
+    <!-- orbiting chips (text stays upright: no rotate on animateMotion) -->
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🏛️ Software Architecture</text>
+      <animateMotion dur="28s" begin="-0s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🌐 Distributed Systems</text>
+      <animateMotion dur="28s" begin="-7s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">⚡ Performance</text>
+      <animateMotion dur="28s" begin="-14s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+    <g>
+      <use href="#chip-shape"/>
+      <text y="5" class="t" font-size="13.5" font-weight="700" fill="#EDE7FF" text-anchor="middle">🔐 Security</text>
+      <animateMotion dur="28s" begin="-21s" repeatCount="indefinite" path="M110,168 a330,92 0 1,0 660,0 a330,92 0 1,0 -660,0"/>
+    </g>
+  </g>
+</svg>
